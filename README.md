@@ -406,4 +406,11 @@ This project demonstrates how advanced SQL can be applied to solve real-world bu
 
 ---
 
+# 👨‍💻 Author
+
+### Bhavesh Chandwani
+
+
+---
+
 ⭐ If you found this useful, feel free to connect and discuss data-driven strategies!
